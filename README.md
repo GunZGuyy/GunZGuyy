@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunzguyy&label=Profile%20views&color=0e75b6&style=flat" alt="gunzguyy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunzguyy" alt="gunzguyy" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/gunzguy" target="blank"><img src="https://img.shields.io/twitter/follow/gunzguy?logo=twitter&style=for-the-badge" alt="gunzguy" /></a> </p>
 
 - 🔭 I’m currently working on **Project Mental Health**
